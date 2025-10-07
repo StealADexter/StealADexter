@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent/StealADexter/main/main.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent/StealADexter/StealADexter/main/main.lua")()
