@@ -7,7 +7,7 @@
 ## Features
 
 ### Main
-- **Steal (Smooth Glide):** Glide back to spawn smoothly.  
+- **Steal (Tween Tp):** Glide back to collect point smoothly.  
 - **Speed Boost x5:** Move 5× faster.  
 - **Infinite Jump:** Jump infinitely.  
 - **Toggle Noclip:** Walk through walls.  
@@ -37,4 +37,4 @@ Execute the script using a compatible Roblox executor (e.g., Synapse X, Fluxus, 
 
 ## Notes
 - Some features (like Jump Power adjustments and Movement tab) are placeholders for future updates.  
-- Use responsibly and only in environments where exploits are allowed.
+
