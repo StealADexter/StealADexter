@@ -99,3 +99,4 @@ TweenService:Create(frame, TweenInfo.new(0.4), {BackgroundTransparency = 0.2}):P
 TweenService:Create(title, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
 TweenService:Create(message, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
 TweenService:Create(closeButton, TweenInfo.new(0.4), {BackgroundTransparency = 0.2, TextTransparency = 0}):Play()
+
